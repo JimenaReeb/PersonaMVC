@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+SplashScreen-Image: \\cp1\DwBcurso$\b5\Downloads\infinity.gif
+X-COMMENT: Main-Class will be added automatically by build
+
+
